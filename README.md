@@ -86,14 +86,37 @@ endmodule
 ```
 
 
-## **RTL realization Output:** 
+## **Timing Waveform:** 
 ![image](https://github.com/user-attachments/assets/007aadd9-e840-4a0e-970f-1a9e0556dd3d)
 
 
 
-## **RTL**
+## **RTL:**
 
 ![image](https://github.com/user-attachments/assets/93a90a37-4333-4d1b-bbdb-e7f06afbb309)
+
+## **Truth Table:**
+
+### **AND Gate**:
+![image](https://github.com/user-attachments/assets/73aaae51-c790-493e-9825-8191e4806101)
+
+### **OR Gate**:
+![image](https://github.com/user-attachments/assets/35f7c24e-52a0-4e13-ad7f-d827585e5338)
+
+### **NOT Gate**:
+![image](https://github.com/user-attachments/assets/c505ae07-00a4-4d17-9c0b-ddd94cafd3af)
+
+### **NAND Gate**:
+![image](https://github.com/user-attachments/assets/204211b9-01af-493e-a821-bec1e5dd8023)
+
+### **NOR Gate**:
+![image](https://github.com/user-attachments/assets/345f197b-9337-4f0e-9fc6-bfaa31c63c03)
+
+### **XOR Gate**:
+![image](https://github.com/user-attachments/assets/09247821-093f-4fb6-9c6d-ca3fe7863341)
+
+### **XNOR Gate**:
+![image](https://github.com/user-attachments/assets/6294b063-19d3-4e95-a07c-1ca94c036194)
 
 
 ## **Result:**
