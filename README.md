@@ -1,8 +1,8 @@
 # STUDY OF BASIC GATES
-
-##### Developed by: Oswald Shilo
-##### Reg No: 212223040139
-
+```
+ Developed by: Oswald Shilo
+ Reg No: 212223040139
+```
 
 ## **AIM:** 
 
@@ -85,16 +85,6 @@ xnor(xnorgate, a, b);
 endmodule
 ```
 
-
-## **Timing Waveform:** 
-![image](https://github.com/user-attachments/assets/007aadd9-e840-4a0e-970f-1a9e0556dd3d)
-
-
-
-## **RTL:**
-
-![image](https://github.com/user-attachments/assets/93a90a37-4333-4d1b-bbdb-e7f06afbb309)
-
 ## **Truth Table:**
 
 ### **AND Gate**:
@@ -117,6 +107,19 @@ endmodule
 
 ### **XNOR Gate**:
 ![image](https://github.com/user-attachments/assets/6294b063-19d3-4e95-a07c-1ca94c036194)
+
+
+## **RTL Realisation:**
+
+![image](https://github.com/user-attachments/assets/93a90a37-4333-4d1b-bbdb-e7f06afbb309)
+
+
+
+
+## **Output:** 
+![image](https://github.com/user-attachments/assets/007aadd9-e840-4a0e-970f-1a9e0556dd3d)
+
+
 
 
 ## **Result:**
